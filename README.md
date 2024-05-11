@@ -1,3 +1,12 @@
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ushh789&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ushh789&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ushh789&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
+
+<!--                   Version 1
 # Hello there 👋  
   
 
@@ -75,6 +84,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushh789&theme=dark&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
+
+
+
+
+
 
 <!--
 **ushh789/ushh789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
